@@ -69,8 +69,9 @@ if(mysql_errno() != 0) {
 <div id="top"></div>
 
 <!-- /.parallax full screen background image -->
-
-<div class="fullscreen landing parallax" style="background-image:url('images/bg.jpg');" data-img-width="2000" data-img-height="1333" data-diff="100">
+<div style="background-image:url('images/bg3.jpg');
+background-repeat: no-repeat;">
+<!-- <div class="fullscreen landing parallax" style="background-image:url('images/bg.jpg');" data-img-width="2000" data-img-height="1333" data-diff="100"> -->
 <img src="images/cab.jpg">
 
 	<div class="overlay">
@@ -82,12 +83,7 @@ if(mysql_errno() != 0) {
 		
 
 					<!-- /.main title -->
-					 <br>
-	
-					 <br>
-					 <br>
-					 <br>
-					 <br>
+		
 						<img src="images/dpac.png" width="567" >
 						<h1 class="wow fadeInLeft">
 						&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
@@ -166,8 +162,8 @@ while($l = mysql_fetch_array($re)) {
 <!-- /.footer -->
 <footer id="footer">
 
-		<div align="center"><p><font color="#FFFFFF">Rua Pernanbuco, 1187 - Salas 07 | Centro - Londrina/PR | 43 3024- 5654  - 43 9697-9705
-       <br>CEP: 86020-121 | Sport Training 2016 - Todos os direitos reservados</font></div>
+		<div align="center"><p><font color="#FFFFFF">Rua Alagoas, 1707 - Sala 01 | Centro - Londrina/PR | 43 3024- 5654  - 43 9697-9705
+       <br>CEP: 86020-430 | Sport Training 2016 - Todos os direitos reservados</font></div>
 	<img src="http://antoniocgomes.com/img/logost/logo_st.png" width="115" style="
     margin-left: 130px;
 ">
